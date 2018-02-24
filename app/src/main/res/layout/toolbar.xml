@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="?attr/actionBarSize"
+    android:id="@+id/toolbar">
+
+    <TextView
+        android:id="@+id/toolbarTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:drawableEnd="@drawable/ic_drop_down"
+        android:drawablePadding="3dp"
+        android:drawableRight="@drawable/ic_drop_down"
+        android:fontFamily="@font/alegreya_sc_bold" />
+
+</android.support.v7.widget.Toolbar>

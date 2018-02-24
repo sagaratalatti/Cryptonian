@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737709194282",
+    "firebase_url": "https://cryptonian-beb4d.firebaseio.com",
+    "project_id": "cryptonian-beb4d",
+    "storage_bucket": "cryptonian-beb4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737709194282:android:5e1001db5a2a803d",
+        "android_client_info": {
+          "package_name": "in.gitbox.cryptonian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737709194282-6j79l7a6h5tr0qokevnjnoc2l0matnis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.gitbox.cryptonian",
+            "certificate_hash": "5520d2bef83a5aa57dececbdf48db64fbaf25317"
+          }
+        },
+        {
+          "client_id": "737709194282-oa9cu0tinj4bpubqtkvlsjf6tdj76sgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZTV4sW52QEtuvW1MLgBOh57vNz4ZJxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737709194282-oa9cu0tinj4bpubqtkvlsjf6tdj76sgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
